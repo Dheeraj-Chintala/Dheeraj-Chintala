@@ -30,7 +30,7 @@ Previously worked on Android & Flutter, now focused on **scalable backend, cloud
 
 ###  Support My Work
 
-If you find my projects useful or inspiring, you can support my work here:
+If you find my projects useful, you can support my work here:
 
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=dheerajaxion&button_colour=6F4E37&font_colour=FFFFFF&font_family=Cookie)](https://www.buymeacoffee.com/dheerajaxion)
 

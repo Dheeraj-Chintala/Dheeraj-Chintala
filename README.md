@@ -1,5 +1,5 @@
-I’m a **full-stack web developer** building, deploying, and dockerizing production-ready applications.  
-Previously worked on Android & Flutter, now focused on **scalable backend, cloud, and DevOps**.
+#### I’m a **full-stack web developer** building, deploying, and dockerizing production-ready applications.
+#### Previously worked on Android & Flutter, now focused on **scalable backend, cloud, and DevOps**.
 
 <table>
   <tr>

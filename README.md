@@ -24,7 +24,7 @@ Previously worked on Android & Flutter, now focused on **scalable backend, cloud
 
 ###  Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=vercel&logoColor=white)](https://dheerajkumar.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=vercel&logoColor=white)](https://dheerajkumar.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-kumar-a34066250)
 [![Email](https://img.shields.io/badge/Email-4B5563?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheerajch153@gmail.com)
 
